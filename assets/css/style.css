@@ -1,0 +1,55 @@
+#headcont{
+    padding: 50px;
+}
+
+#title{
+    width: 100%;
+    font-family: 'Orbitron', sans-serif;
+    font-size: 70px;
+    letter-spacing: 10px;
+    margin: 0px;
+}
+
+#instruc{
+    margin-top: 20px;
+    border: 100px, solid, gray;
+}
+
+.titles{
+    text-align: center;
+    background: purple;
+    color: white;
+    margin-top: 20px;
+    font-family: 'Orbitron', sans-serif;
+    padding-top: 10px;
+}
+
+h3{
+    width: 100%;
+    text-align: center;
+}
+
+#gem-1{
+    margin-top: 15px;
+    background: url(../images/1.png);
+    height: 100px;
+    background-size: cover;
+}
+
+#gem-2{
+    margin-top: 15px;
+    background: url(../images/2.png);
+    background-size: cover;
+}
+
+#gem-3{
+    margin-top: 15px;
+    background: url(../images/3.png);
+    background-size: cover;
+}
+
+#gem-4{
+    margin-top: 15px;
+    background: url(../images/4.png);
+    background-size: cover;
+}

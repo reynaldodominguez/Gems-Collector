@@ -1,0 +1,1 @@
+//$('.title').addClass('animated bounceOutLeft');
