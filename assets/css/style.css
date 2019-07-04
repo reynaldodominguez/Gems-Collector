@@ -1,5 +1,5 @@
 #headcont{
-    padding: 50px;
+    padding: 20px;
 }
 
 #title{
@@ -52,4 +52,10 @@ h3{
     margin-top: 15px;
     background: url(../images/4.png);
     background-size: cover;
+}
+
+p{
+    font-family: 'Roboto';
+    margin-left: 0px;
+    padding-left: 0px;
 }
